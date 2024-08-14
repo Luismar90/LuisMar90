@@ -52,6 +52,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMartinez&theme=highcontrast&layout=compact&langs\_count=6)
+
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoHalpe&theme=highcontrast&layout=compact&langs\_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
