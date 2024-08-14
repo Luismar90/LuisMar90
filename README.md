@@ -6,7 +6,7 @@
 
 🎓 Estoy terminando mi ultimo año del Grado Superior de Diseño de aplicaciones Multiplataforma
 
-💻 Empecé en el mundo del diseño cuando decidi estudiar la carrera de diseño grafico, en la actualidad y desde de mucho tiempo, comemce apacionarme en el mundo de la programacion, creando sitios web, API y aplicaciones mÓviles etc. Creando assi mis primweros proyectos.
+💻 Empecé en el mundo del diseño cuando decidi estudiar la carrera de diseño grafico. En la actualidad y desde de hace un mucho tiempo, comence apacionarme en el mundo de la programacion, creando sitios web, API y aplicaciones mÓviles etc. Creando asi mis primweros proyectos.
 
 ## 🛠️ Habilidades 
 
