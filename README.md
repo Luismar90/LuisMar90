@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mi
 
-🙋‍♂️ Soy Luis Martinez, a **Full Stack Developer**  
+🙋‍♂️ Soy Luis Raúl Martinez, a **Full Stack Developer**  
 
 🎓 Estoy terminando mi ultimo año del Grado Superior de Diseño de aplicaciones Multiplataforma
 
