@@ -45,10 +45,19 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-4560b2?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://portafolio-luis-ehv4y7lt7-luis-martinezs-projects-ec322962.vercel.app){:target="_blank"}
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luis-martinez-bb0618268/){:target="_blank"}
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Luismar90/portafolio_Luis){:target="_blank"}
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luismar9099@gmail.com){:target="_blank"}
+<a href="https://portafolio-luis-ehv4y7lt7-luis-martinezs-projects-ec322962.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4560b2?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/luis-martinez-bb0618268/" target="_blank">
+  <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/Luismar90/portafolio_Luis" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:luismar9099@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 
 
